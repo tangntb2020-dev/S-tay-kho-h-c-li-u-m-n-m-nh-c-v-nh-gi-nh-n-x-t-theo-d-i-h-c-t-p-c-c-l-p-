@@ -1,0 +1,7 @@
+{
+  "name": "Sổ Tay Âm Nhạc Khai Minh",
+  "description": "Sổ tay đánh giá điểm số, nề nếp và quản lý bộ môn Âm nhạc Trường Tiểu học Khai Minh",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
